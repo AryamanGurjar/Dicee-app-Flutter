@@ -22,3 +22,8 @@ flutter:
 
   assets:
   - images/
+
+  fonts:
+    - family: Itim
+      fonts:
+       - asset: fonts/Itim-Regular.ttf
